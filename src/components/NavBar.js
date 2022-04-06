@@ -6,7 +6,7 @@ function NavBar() {
   return (
     <div className='header'>
     <FaHubspot className='icon'/>
-    <h2>Mwinnome Wireless Accessories</h2>
+    <h2>Amaze Phones and Accessories</h2>
     <ul>
     <li><Link to="/">Home</Link></li>
     <li><Link to="/about">About Us</Link></li>
